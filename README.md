@@ -1,5 +1,12 @@
 ## Hi there 👋
+### I'm Mohammad Reza Sadeghi, I'm a tech enthusiast with a focus on Linux systems, Cloud, Automation and DevOps.
+I am currently working in [MehrIranBank](https://qmb.ir)
 
+
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-reza-sadeghi4/)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=mrsadeghi4&include_all_commits=true&theme=merko)
 <!--
 **mrsadeghi4/mrsadeghi4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
